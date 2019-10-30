@@ -3,6 +3,7 @@
 This is a repo to make your first contribution to open source and to learn the git workflow.
 
 ## Details
+ 
 
 Hi there, if you are reading this then probably you are new to open source and looking for some issues to contribute to. You can start by contributing to this list, follow these simple steps to make your first successful PR.  
 
